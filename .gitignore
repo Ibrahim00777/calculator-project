@@ -1,0 +1,18 @@
+# Java / Spring Boot
+backend/target/
+
+# Angular / Node
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# Local tooling and runtime logs
+tools/
+logs/
+*.log
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
